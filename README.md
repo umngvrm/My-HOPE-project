@@ -1,1 +1,1 @@
-# My-HOPE-project
+This is my energy optimization model for India
